@@ -1,13 +1,13 @@
 .header img {
     height: 80px;
 }
-.header{
+.header {
     text-align: center;
 }
-.header nav{
-    background: black;
+.header nav {
+    background-color: black;
     line-height: 40px;
-    font-size: 20xp;
+    font-size: 20px;
 }
 nav a{
     text-decoration: none;
@@ -15,6 +15,6 @@ nav a{
     margin-right: 20px;
     padding: 5px;
 }
-nav a:hover{
+nav a:hover {
     background-color: gray;
 }
